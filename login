@@ -24,3 +24,4 @@ class LoginController extends Controller
         }
     }
 }
+?php>
